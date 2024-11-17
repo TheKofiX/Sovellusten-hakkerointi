@@ -75,11 +75,11 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 - Ainoa ero oli tehtävää ajaessa, vaadittiin heittomerkit, sillä salasanassa ollut ! aiheutti haittaa.
 - Alla alkuun ilman heittomerkkejä.
   
-<img src="https://i.imgur.com/5fCXgVS.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/5fCXgVS.png" alt="Alternate image text" width="700"/>
 
 - Sitten niiden kanssa.
   
-<img src="https://i.imgur.com/1AUATEY.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/1AUATEY.png" alt="Alternate image text" width="700"/>
 
 ### f) Nora crackme02. Nimeä pääohjelman muuttujat käänteismallinnetusta binääristä ja selitä ohjelman toiminta. Ratkaise binääri.
 
