@@ -70,7 +70,7 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 - Crackme01e toimi lähes samalla tavalla kuin crackme01.
 - Tiedosto rakennettiin, laitettiin ghidraan, sekä haimme main funktion.
   
-<img src="https://i.imgur.com/4nkRHE4.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/4nkRHE4.png" alt="Alternate image text" width="800"/>
 
 - Ainoa ero oli tehtävää ajaessa, vaadittiin heittomerkit, sillä salasanassa ollut ! aiheutti haittaa.
 - Alla alkuun ilman heittomerkkejä.
