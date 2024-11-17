@@ -64,12 +64,18 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 
 - Crackme01e toimi lähes samalla tavalla kuin crackme01.
 - Tiedosto rakennettiin, laitettiin ghidraan, sekä haimme main funktion.
+  
 <img src="https://i.imgur.com/4nkRHE4.png" alt="Alternate image text" width="400"/>
+
 - Ainoa ero oli tehtävää ajaessa, vaadittiin heittomerkit, sillä salasanassa ollut ! aiheutti haittaa.
 - Alla alkuun ilman heittomerkkejä.
+  
 <img src="https://i.imgur.com/5fCXgVS.png" alt="Alternate image text" width="400"/>
+
 - Sitten niiden kanssa.
+  
 <img src="https://i.imgur.com/1AUATEY.png" alt="Alternate image text" width="400"/>
+
 ### f) Nora crackme02. Nimeä pääohjelman muuttujat käänteismallinnetusta binääristä ja selitä ohjelman toiminta. Ratkaise binääri.
 
 - Crackme02 oli ainoa tehtävä, jota en mielestäni saanut ratkaistua sillä jouduin tukeutumaan ohjelman lähdekoodiin.
