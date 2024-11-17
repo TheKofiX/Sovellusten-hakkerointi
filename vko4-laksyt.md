@@ -2,6 +2,9 @@
 ### x) Lue/katso/kuuntele ja tiivistä. (Tässä x-alakohdassa ei tarvitse tehdä testejä tietokoneella, vain lukeminen tai kuunteleminen ja tiivistelmä riittää. Tiivistämiseen riittää muutama ranskalainen viiva.)
 Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video, noin 20 min)
 
+- Videossa kerrotaan alkuun hieman ghidrasta sekä sen käyttötarkoituksista.
+- Videossa käsitellään ghidran asennusta, käyttöä sekä toimintaa.
+  
 ### a) Asenna Ghidra.
   - Ghidran asennus, sekä käynnistys onnistui seuraavilla komennoilla
     ```
