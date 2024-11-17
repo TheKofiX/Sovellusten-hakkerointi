@@ -82,6 +82,6 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 - Ymmärsin tehtävän decompile osiosta, että salasanaa muutetaan käyttäen jonkun näköistä looppia, jossa tulosta vähennetään. En kuitenkaan ymmärtänyt kuinka tämä toimii, tai kuinka ratkaisisin asian.
 - Näin ollen päädyin avaamaan lähdekoodin, josta löysin oikean vastauksen ja pääsin tutkimaan kuinka tähän päästäisiin.
 - Vastaus oli loppujen lopuksi melko simppeli, sillä Ghidran avulla löydetyn salasanan ASCII arvoja miinustettiin vain yhdellä. <br>
-- Alla olevassa kuvassa yritin selkeyttää muuttamalla muuttujien nimiä. Tässä on selvää että salasanaa muutetaan while loopilla.
+- Alla olevassa kuvassa yritin selkeyttää muuttamalla muuttujien nimiä. Tästä myös ilmenee, että salasanaa muutetaan.
 
 <img src="https://i.imgur.com/07YDEyF.png" alt="Alternate image text" width="400"/>
