@@ -24,6 +24,8 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 
 - Tuplaklikkaamalla funktiota se aukesi Decompile ikkunaan, josta löydämme salasanan "piilos-AnAnAs"
 - Näemme myös Lipun FLAG{Tero-...............}
+
+- Tehtävä siis toimii vertaamalla, userInputtia ja salasanaa.
   
 <img src="https://i.imgur.com/zjDlhBj.png" alt="Alternate image text" width="400"/>
 
