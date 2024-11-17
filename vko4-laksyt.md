@@ -4,10 +4,10 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 
 ### a) Asenna Ghidra.
   - Ghidran asennus, sekä käynnistys onnistui seuraavilla komennoilla
-      sudo apt-get install openjdk-17-jdk
-      wget https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_11.1.2_build/ghidra_11.1.2_PUBLIC_20240709.zip
-      unzip ghidra_11.1.2_PUBLIC_20240709.zip
-      ./ghidraRun
+        sudo apt-get install openjdk-17-jdk
+        wget https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_11.1.2_build/ghidra_11.1.2_PUBLIC_20240709.zip
+        unzip ghidra_11.1.2_PUBLIC_20240709.zip
+        ./ghidraRun
 <img src="" alt="Alternate image text" width="400"/>
 <img src="" alt="Alternate image text" width="400"/>
 <img src="" alt="Alternate image text" width="400"/>
