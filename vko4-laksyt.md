@@ -31,10 +31,14 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 ### c) Jos väärinpäin. Muokkaa passtr-ohjelman binääriä (ilman alkuperäistä lähdekoodia) niin, että se hyväksyy kaikki salasanat paitsi oikean. Osoita testein, että ohjelma toimii. 
 
 - En ollut ennen kyseistä tehtävää tietoinen assemblystä oikeastaan ollenkaan. En kuitenkaan halunnut chatgpt:ltä suoraa vastausta, vaan oppia asian itse, joten kysyin kuinka assemblyssä voitaisiin saavuttaa se, että ohjelma hyväksyy kaikki salasanat paitsi oikean. Se kertoi minulle JNZ ja JZ käskyistä.
-- Tämä toi minut seuraaviin lähteisiin: [Assembly Language Programming Tutorial - 40 - Conditional Jumps](https://www.youtube.com/watch?v=CCG1rVRgdJ0) [Conditionals and jump instructions](https://www.infosecinstitute.com/resources/secure-coding/conditionals-and-jump-instructions/) 
-
-<img src="" alt="Alternate image text" width="400"/>
-<img src="" alt="Alternate image text" width="400"/>
+- Tämä toi minut seuraaviin lähteisiin: [Assembly Language Programming Tutorial - 40 - Conditional Jumps](https://www.youtube.com/watch?v=CCG1rVRgdJ0) <br> [Conditionals and jump instructions](https://www.infosecinstitute.com/resources/secure-coding/conditionals-and-jump-instructions/) 
+- JNZ ja JZ, ymmärrykseni mukaan siis kertovat ohjelmalle hypätä tiettyyn kohtaan tietyn komennon tapahtuessa. Esim. Salasana oikein --> Hyppää ohjelman riville x
+- Näin muuttamalla kyseisen käskyn toisin päin saimme halutun tuloksen.
+  <br>
+  -Alkuperäinen alla.
+<img src="https://i.imgur.com/OpWhQLy.png" alt="Alternate image text" width="400"/>
+  -Muutettu JZ käsky alla.
+<img src="https://i.imgur.com/B8KvTaW.png" alt="Alternate image text" width="400"/>
 <img src="" alt="Alternate image text" width="400"/>
 
 ### d) Nora CrackMe: Käännä binääreiksi Tindall 2023: NoraCodes / crackmes. Lue README.md: älä katso lähdekoodeja, ellet tarvitse niitä apupyöriksi. Näissä tehtävissä binäärejä käänteismallinnetaan. Binäärejä ei muokata, koska muutenhan jokaisen tehtävän ratkaisu olisi vaihtaa palautusarvoksi "return 0".
