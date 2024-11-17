@@ -60,10 +60,10 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 <img src="https://i.imgur.com/kmubm4J.png" alt="Alternate image text" width="400"/>
 
 - Tämän jälkeen tiedosto laitettiin ghidraan, jonka avulla salasana löytyi, joko main funktion alta seuraamalla s_password kohtaa tai katsomalla decompile osasta.
-<img src="https://i.imgur.com/XJyCB2F.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/XJyCB2F.png" alt="Alternate image text" width="800"/>
 
 - Lopputulos vielä alla.
-<img src="https://i.imgur.com/NDm2jRc.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/NDm2jRc.png" alt="Alternate image text" width="600"/>
 
 ### e) Nora crackme01e. Ratkaise binääri.
 
