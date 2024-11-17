@@ -10,9 +10,6 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
         unzip ghidra_11.1.2_PUBLIC_20240709.zip
         ./ghidraRun
     ```
-<img src="" alt="Alternate image text" width="400"/>
-<img src="" alt="Alternate image text" width="400"/>
-<img src="" alt="Alternate image text" width="400"/>
 ### b) rever-C. Käänteismallinna packd-binääri C-kielelle Ghidralla. Etsi pääohjelma. Anna muuttujielle kuvaavat nimet. Selitä ohjelman toiminta. Ratkaise tehtävä binääristä, ilman alkuperäistä lähdekoodia. 
 - Tehtävä aloitettiin purkamalla packd tiedosto käyttäen upx ohjelmaa.
   
