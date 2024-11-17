@@ -20,7 +20,7 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 
 - Tämän jälkeen tuplaklikkasimme tiedoston auki, jonka jälkeen etsimme sieltä main funktion.
   
-<img src="https://i.imgur.com/73fkLNv.png" alt="Alternate image text" width="600"/>
+<img src="https://i.imgur.com/73fkLNv.png" alt="Alternate image text" width="800"/>
 - Tuplaklikkaamalla funktiota se aukesi Decompile ikkunaan, josta löydämme salasanan "piilos-AnAnAs"
 - Näemme myös Lipun FLAG{Tero-...............}
 <img src="https://i.imgur.com/zjDlhBj.png" alt="Alternate image text" width="400"/>
