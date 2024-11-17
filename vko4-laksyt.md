@@ -36,9 +36,9 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 - Näin muuttamalla kyseisen käskyn toisin päin saimme halutun tuloksen.
   <br>
   -Alkuperäinen alla.
-<img src="https://i.imgur.com/OpWhQLy.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/OpWhQLy.png" alt="Alternate image text" width="600"/>
   -Muutettu JZ käsky alla.
-<img src="https://i.imgur.com/B8KvTaW.png" alt="Alternate image text" width="400"/>
+<img src="https://i.imgur.com/B8KvTaW.png" alt="Alternate image text" width="600"/>
 <img src="" alt="Alternate image text" width="400"/>
 
 ### d) Nora CrackMe: Käännä binääreiksi Tindall 2023: NoraCodes / crackmes. Lue README.md: älä katso lähdekoodeja, ellet tarvitse niitä apupyöriksi. Näissä tehtävissä binäärejä käänteismallinnetaan. Binäärejä ei muokata, koska muutenhan jokaisen tehtävän ratkaisu olisi vaihtaa palautusarvoksi "return 0".
