@@ -59,6 +59,7 @@ Hammond 2022: Ghidra for Reverse Engineering (PicoCTF 2022 #42 'bbbloat') (Video
 
 - Lopputulos vielä alla.
 <img src="https://i.imgur.com/NDm2jRc.png" alt="Alternate image text" width="400"/>
+
 ### e) Nora crackme01e. Ratkaise binääri.
 
 - Crackme01e toimi lähes samalla tavalla kuin crackme01.
